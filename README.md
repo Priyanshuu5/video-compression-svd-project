@@ -1,4 +1,3 @@
-# video-compression-svd-project
 # Video Compression Using Singular Value Decomposition (SVD)
 
 ## Introduction
